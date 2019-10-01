@@ -3,7 +3,7 @@ A l'issue de la première partie du cours, vous devez être à l'aise avec les c
 
 
 **Python**
-+ Tester des bouts de codes avec `ipython notebook`
++ Tester des bouts de codes avec `jupyter notebook`
 + Être familier avec les messages d'erreurs basiques
 + Ecrire et lancer un script `run.py` avec une fonction `main()`
 + Définir des fonctions et les utiliser
